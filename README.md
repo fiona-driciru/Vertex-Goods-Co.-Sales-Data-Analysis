@@ -14,6 +14,7 @@ Manufacturing → Warehousing → Distribution → Retail Channels → End Custo
 Enables streamlined supply chain management and comprehensive sales coverage.
 
 📂** **Reports Built****
+
 Sales Revenue Trends by Region
 
 Product Category Performance
