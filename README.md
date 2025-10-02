@@ -1,8 +1,45 @@
-Vertex Goods Co. Sales Data Analysis Project
+**Vertex Goods Co. – Advanced Excel Sales Data Analysis Project**
 
-This project demonstrates a comprehensive sales data analysis using advanced Excel techniques, including data cleaning with Power Query, data modeling in Power Pivot, and custom metric calculations with DAX formulas. The analysis covers key performance indicators such as total sales, profit margins, regional performance, product category trends, and seasonality patterns.
+Turning raw sales data into actionable business insights: Analyzed multi-year sales data from Vertex Goods Co. to generate strategic insights driving operational decisions.
 
-A clean and interactive dashboard was created to visualize insights through appropriate charts and graphs, supporting strategic decision-making. The project also explores correlation and predictive forecasting to optimize inventory and marketing efforts.
+🏢 **About Vertex Goods Co.**
+Global retailer of consumer goods specializing in diverse product categories across multiple regions.
 
-This repository contains the full Excel workbook with detailed methodology, KPIs, and dashboard views useful for business intelligence professionals, analysts, and anyone interested in sales performance analytics.
+🌍 **Business Model Overview**
+Manufacturing → Warehousing → Distribution → Retail Channels → End Customers
 
+Enables streamlined supply chain management and comprehensive sales coverage.
+
+📂** Reports Built**
+Sales Revenue Trends by Region
+
+Product Category Performance
+
+Seasonality and Monthly Sales Trends
+
+Correlation Analysis between Price and Quantity
+
+Inventory Availability Dashboard
+
+📊 **Sales Report Highlights
+Objectives**
+Create comprehensive sales performance reports
+
+Identify key drivers of revenue and sales volume
+
+Support inventory and marketing decision-making
+
+**Purpose**
+Assist management in monitoring, analyzing, and optimizing sales channels and product strategies.
+
+**Why It Matters**
+Data-driven decision-making uncovers growth opportunities and operational efficiencies.
+
+**Key Insights**
+Sales driven primarily by the APAC region, with potential for growth in Americas
+
+Bars product category leads, with opportunities in expanding Bites segment
+
+Seasonality effects identified with peak sales in February and off-peak months targeted for campaigns
+
+Strong correlation between sales volume and revenue supports predictive forecasting
