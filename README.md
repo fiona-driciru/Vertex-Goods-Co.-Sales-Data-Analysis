@@ -57,10 +57,15 @@ Strong correlation between sales volume and revenue supports predictive forecast
 🛠 **Technical & Analytical Skills Developed**
 
 Proficient in ETL (Extract, Transform, Load) and Power Query for data preparation.
+
 Experienced in creating date tables and deriving fiscal months and quarters.
+
 Skilled in data modelling and establishing relationships in Power Pivot with supplementary data.
+
 Proficient in DAX for calculated columns and advanced analytics.
+
 Strong understanding of report design, focusing on actionable insights and user-friendly presentation.
+
 Able to optimise report generation and implement structured approaches to analytics projects.
 
 This project strengthened both my technical skills and also my ability to translate data into business strategy — a critical skill for driving decisions in today’s data-driven world.
